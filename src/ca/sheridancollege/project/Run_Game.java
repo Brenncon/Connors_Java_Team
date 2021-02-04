@@ -10,6 +10,9 @@ import java.util.Scanner;
 /**
  *
  * @author Connor Brennan
+ * Blackjack program 
+ * This was an individual assignment to create a card game program.
+ * I chose Blackjack and based the rules on a video game that I played at the time.
  */
 public class Run_Game {
     public static void main(String[] args)
